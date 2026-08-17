@@ -1,5 +1,5 @@
 
-# ACTIVIDAD-U1-F01.-AN-LISIS-DE-UN-SISTEMA-REAL
+# ACTIVIDAD-U1-F01.-ANALISIS-DE-UN-SISTEMA-REAL
 # Universidad Autónoma de Nuevo León
 ## Facultad de Ingeniería Mecánica y Eléctrica
 **Carrera:** Ingeniero en Tecnología de Software (ITS)
