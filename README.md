@@ -7,7 +7,9 @@
 **Actividad:** Análisis de un Sistema Real 
 **Alumno:** Angel Adrián Velez Contreras
 **Matrícula:** 2145646
-
+**Docente:** Miguel Angel Gomez Marroquin
+**Grupo:** 004
+**Fecha:** 17/08/26
 ---
 
 ## 01. Sistema Seleccionado: Aplicación Bancaria
