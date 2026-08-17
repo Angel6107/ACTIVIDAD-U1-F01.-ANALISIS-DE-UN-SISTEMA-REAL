@@ -1,5 +1,4 @@
-<img width="622" height="665" alt="diagrama_uml" src="https://github.com/user-attachments/assets/3f815ca0-5cc7-418b-a01b-6acb8e565007" />
-<img width="3425" height="8192" alt="diagrama_bpmn" src="https://github.com/user-attachments/assets/2e8867bc-f286-43b7-9e98-1a0da4ce7f7e" />
+
 # ACTIVIDAD-U1-F01.-AN-LISIS-DE-UN-SISTEMA-REAL
 # Universidad Autónoma de Nuevo León
 ## Facultad de Ingeniería Mecánica y Eléctrica
@@ -41,7 +40,8 @@
 
 *El diagrama cuenta con 5 entidades principales y define 3 invariantes del dominio (Edad >= 18, Saldo >= 0, Monto de transacción > 0).*
 
-![Diagrama UML](diagrama_uml.png)
+![Diagrama UML].
+<img width="622" height="665" alt="diagrama_uml" src="https://github.com/user-attachments/assets/3f815ca0-5cc7-418b-a01b-6acb8e565007" />
 
 ---
 
@@ -49,4 +49,5 @@
 
 *Flujo principal de una transferencia interbancaria utilizando swimlanes (Cliente y Sistema Core) y compuertas lógicas de validación.*
 
-![Diagrama BPMN](diagrama_bpmn.png)
+![Diagrama BPMN].
+<img width="3425" height="8192" alt="diagrama_bpmn" src="https://github.com/user-attachments/assets/2e8867bc-f286-43b7-9e98-1a0da4ce7f7e" />
